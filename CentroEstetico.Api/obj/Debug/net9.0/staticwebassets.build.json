@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "hwnk5pGwUSJ4deOoguA2WfdyH8n6g9xJGWz58bL40ik=",
+  "Source": "CentroEstetico.Api",
+  "BasePath": "_content/CentroEstetico.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

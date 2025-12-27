@@ -1,0 +1,15 @@
+/home/user/centroesteticoapi/CentroEstetico.Application/bin/Debug/net9.0/CentroEstetico.Application.deps.json
+/home/user/centroesteticoapi/CentroEstetico.Application/bin/Debug/net9.0/CentroEstetico.Application.dll
+/home/user/centroesteticoapi/CentroEstetico.Application/bin/Debug/net9.0/CentroEstetico.Application.pdb
+/home/user/centroesteticoapi/CentroEstetico.Application/bin/Debug/net9.0/CentroEstetico.Domain.dll
+/home/user/centroesteticoapi/CentroEstetico.Application/bin/Debug/net9.0/CentroEstetico.Domain.pdb
+/home/user/centroesteticoapi/CentroEstetico.Application/obj/Debug/net9.0/CentroEstetico.Application.csproj.AssemblyReference.cache
+/home/user/centroesteticoapi/CentroEstetico.Application/obj/Debug/net9.0/CentroEstetico.Application.GeneratedMSBuildEditorConfig.editorconfig
+/home/user/centroesteticoapi/CentroEstetico.Application/obj/Debug/net9.0/CentroEstetico.Application.AssemblyInfoInputs.cache
+/home/user/centroesteticoapi/CentroEstetico.Application/obj/Debug/net9.0/CentroEstetico.Application.AssemblyInfo.cs
+/home/user/centroesteticoapi/CentroEstetico.Application/obj/Debug/net9.0/CentroEstetico.Application.csproj.CoreCompileInputs.cache
+/home/user/centroesteticoapi/CentroEstetico.Application/obj/Debug/net9.0/CentroEs.472D912E.Up2Date
+/home/user/centroesteticoapi/CentroEstetico.Application/obj/Debug/net9.0/CentroEstetico.Application.dll
+/home/user/centroesteticoapi/CentroEstetico.Application/obj/Debug/net9.0/refint/CentroEstetico.Application.dll
+/home/user/centroesteticoapi/CentroEstetico.Application/obj/Debug/net9.0/CentroEstetico.Application.pdb
+/home/user/centroesteticoapi/CentroEstetico.Application/obj/Debug/net9.0/ref/CentroEstetico.Application.dll

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/CentroEstetico.Api.props" />
+</Project>
