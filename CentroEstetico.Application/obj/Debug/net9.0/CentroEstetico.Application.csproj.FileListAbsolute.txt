@@ -8,6 +8,7 @@
 /home/user/centroesteticoapi/CentroEstetico.Application/obj/Debug/net9.0/CentroEstetico.Application.AssemblyInfoInputs.cache
 /home/user/centroesteticoapi/CentroEstetico.Application/obj/Debug/net9.0/CentroEstetico.Application.AssemblyInfo.cs
 /home/user/centroesteticoapi/CentroEstetico.Application/obj/Debug/net9.0/CentroEstetico.Application.csproj.CoreCompileInputs.cache
+/home/user/centroesteticoapi/CentroEstetico.Application/obj/Debug/net9.0/CentroEstetico.Application.sourcelink.json
 /home/user/centroesteticoapi/CentroEstetico.Application/obj/Debug/net9.0/CentroEs.472D912E.Up2Date
 /home/user/centroesteticoapi/CentroEstetico.Application/obj/Debug/net9.0/CentroEstetico.Application.dll
 /home/user/centroesteticoapi/CentroEstetico.Application/obj/Debug/net9.0/refint/CentroEstetico.Application.dll

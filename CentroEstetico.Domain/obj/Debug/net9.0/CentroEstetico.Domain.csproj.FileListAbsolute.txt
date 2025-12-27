@@ -5,6 +5,7 @@
 /home/user/centroesteticoapi/CentroEstetico.Domain/obj/Debug/net9.0/CentroEstetico.Domain.AssemblyInfoInputs.cache
 /home/user/centroesteticoapi/CentroEstetico.Domain/obj/Debug/net9.0/CentroEstetico.Domain.AssemblyInfo.cs
 /home/user/centroesteticoapi/CentroEstetico.Domain/obj/Debug/net9.0/CentroEstetico.Domain.csproj.CoreCompileInputs.cache
+/home/user/centroesteticoapi/CentroEstetico.Domain/obj/Debug/net9.0/CentroEstetico.Domain.sourcelink.json
 /home/user/centroesteticoapi/CentroEstetico.Domain/obj/Debug/net9.0/CentroEstetico.Domain.dll
 /home/user/centroesteticoapi/CentroEstetico.Domain/obj/Debug/net9.0/refint/CentroEstetico.Domain.dll
 /home/user/centroesteticoapi/CentroEstetico.Domain/obj/Debug/net9.0/CentroEstetico.Domain.pdb

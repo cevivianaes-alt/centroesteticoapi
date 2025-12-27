@@ -1,4 +1,5 @@
 /home/user/centroesteticoapi/CentroEstetico.Infrastructure/bin/Debug/net9.0/CentroEstetico.Infrastructure.deps.json
+/home/user/centroesteticoapi/CentroEstetico.Infrastructure/bin/Debug/net9.0/CentroEstetico.Infrastructure.runtimeconfig.json
 /home/user/centroesteticoapi/CentroEstetico.Infrastructure/bin/Debug/net9.0/CentroEstetico.Infrastructure.dll
 /home/user/centroesteticoapi/CentroEstetico.Infrastructure/bin/Debug/net9.0/CentroEstetico.Infrastructure.pdb
 /home/user/centroesteticoapi/CentroEstetico.Infrastructure/bin/Debug/net9.0/CentroEstetico.Application.dll
@@ -10,10 +11,10 @@
 /home/user/centroesteticoapi/CentroEstetico.Infrastructure/obj/Debug/net9.0/CentroEstetico.Infrastructure.AssemblyInfoInputs.cache
 /home/user/centroesteticoapi/CentroEstetico.Infrastructure/obj/Debug/net9.0/CentroEstetico.Infrastructure.AssemblyInfo.cs
 /home/user/centroesteticoapi/CentroEstetico.Infrastructure/obj/Debug/net9.0/CentroEstetico.Infrastructure.csproj.CoreCompileInputs.cache
+/home/user/centroesteticoapi/CentroEstetico.Infrastructure/obj/Debug/net9.0/CentroEstetico.Infrastructure.sourcelink.json
 /home/user/centroesteticoapi/CentroEstetico.Infrastructure/obj/Debug/net9.0/CentroEs.2F4533E2.Up2Date
 /home/user/centroesteticoapi/CentroEstetico.Infrastructure/obj/Debug/net9.0/CentroEstetico.Infrastructure.dll
 /home/user/centroesteticoapi/CentroEstetico.Infrastructure/obj/Debug/net9.0/refint/CentroEstetico.Infrastructure.dll
 /home/user/centroesteticoapi/CentroEstetico.Infrastructure/obj/Debug/net9.0/CentroEstetico.Infrastructure.pdb
-/home/user/centroesteticoapi/CentroEstetico.Infrastructure/obj/Debug/net9.0/ref/CentroEstetico.Infrastructure.dll
-/home/user/centroesteticoapi/CentroEstetico.Infrastructure/bin/Debug/net9.0/CentroEstetico.Infrastructure.runtimeconfig.json
 /home/user/centroesteticoapi/CentroEstetico.Infrastructure/obj/Debug/net9.0/CentroEstetico.Infrastructure.genruntimeconfig.cache
+/home/user/centroesteticoapi/CentroEstetico.Infrastructure/obj/Debug/net9.0/ref/CentroEstetico.Infrastructure.dll

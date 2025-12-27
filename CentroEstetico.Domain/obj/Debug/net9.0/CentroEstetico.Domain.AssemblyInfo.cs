@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CentroEstetico.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1d6e618080dd7d941aeebfb3cfd76205920c9d03")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+90d64b95c875c9b8617168d951e63f98e38b2a12")]
 [assembly: System.Reflection.AssemblyProductAttribute("CentroEstetico.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CentroEstetico.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
